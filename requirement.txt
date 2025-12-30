@@ -1,0 +1,5 @@
+# If you want the latest version
+pip install gradio
+
+# Or with specific version
+pip install gradio==3.41.2
